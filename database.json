@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Aarav Sharma",
+        "email": "aarav@gmail.com",
+        "phone No.": 8103142627,
+        "pin": 1234,
+        "Account No.": "254455wg11",
+        "balance": 3000
+    },
+    {
+        "name": "Dolly",
+        "email": "Dolly@chai.com",
+        "phone No.": 8103142627,
+        "pin": 8888,
+        "Account No.": "jJwyy5408"
+    },
+    {
+        "name": "varsha",
+        "email": "tripathivarsha35@gmail.com",
+        "phone No.": 8155442222,
+        "pin": 2323,
+        "Account No.": "cgW9G282y",
+        "balance": 0
+    },
+    {
+        "name": "varsha kumari",
+        "email": "tripathivarsha35@gmail.com",
+        "phone No.": 6204588100,
+        "pin": 8292,
+        "Account No.": "CXF984S6A",
+        "balance": 0
+    },
+    {
+        "name": "varsha tripathi",
+        "email": "tripathivarsha35@gmail.com",
+        "phone No.": 8103142627,
+        "pin": 8292,
+        "Account No.": "6Q7GW0YU6",
+        "balance": 0
+    }
+]
